@@ -4,8 +4,8 @@ require 'sinatra'
 require 'aws-sdk-core'
 
 #set AWS access
-Aws.config[:access_key_id] = 'AKIAJIWUFD34WE3ZUYUQ'
-  Aws.config[:secret_access_key] = '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'
+Aws.config[:access_key_id] = ''
+  Aws.config[:secret_access_key] = ''
   Aws.config[:region] = 'us-west-2'
 
 before do
