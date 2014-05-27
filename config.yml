@@ -1,5 +1,0 @@
-#AWS Access Key
-#they use the user Messages, it only have full access to SNS AWS
-access_key_id: AKIAJIWUFD34WE3ZUYUQ
-secret_access_key: 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
-region: us-west-2
